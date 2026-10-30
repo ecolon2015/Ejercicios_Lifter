@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Charmander",
+        "type": "Fire",
+        "level": 8,
+        "weight_kg": 8.5,
+        "is_shiny": true,
+        "held_item": "Charcoal",
+        "skills": [
+            "Ember",
+            "Scratch",
+            "Tackle",
+            "Smokescreen"
+        ],
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "sp_attack": 60,
+            "sp_defense": 50,
+            "speed": 65
+        }
+    },
+    {
+        "name": "Pikachu",
+        "type": "water",
+        "level": 50,
+        "weight_kg": 9.0,
+        "is_shiny": true,
+        "held_item": null,
+        "skills": [
+            "thunder",
+            "fast",
+            "furios",
+            "talt"
+        ],
+        "stats": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 3,
+            "sp_attack": 2,
+            "sp_defense": 3,
+            "speed": 3
+        }
+    },
+    {
+        "name": "barbara",
+        "type": "water",
+        "level": 50,
+        "weight_kg": 6.0,
+        "is_shiny": true,
+        "held_item": null,
+        "skills": [
+            "thunder",
+            "fast",
+            "furios",
+            "curios"
+        ],
+        "stats": {
+            "hp": 50,
+            "attack": 80,
+            "defense": 89,
+            "sp_attack": 35,
+            "sp_defense": 35,
+            "speed": 50
+        }
+    }
+]
