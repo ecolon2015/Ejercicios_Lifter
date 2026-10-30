@@ -1,0 +1,9 @@
+{
+    "employees" : [
+        {"name" : "Alice", "age" : 28,"department" : "Engeniering"},
+        {"name" : "Bob", "age" : 34,"department" : "Marketing"},
+        {"name" : "Charlie", "age" : 25,"department" : "Design"}
+    ],
+    "company" : "Tech Solution",
+    "location" : "New York"
+}
